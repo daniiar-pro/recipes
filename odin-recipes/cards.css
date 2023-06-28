@@ -1,0 +1,15 @@
+.recipes  {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    margin-left: 20px;
+}
+
+.card:hover {
+    background-color: grey;
+    cursor: pointer;
+    border-radius: 30% solid red;
+}
